@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(114, 114, 231);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#div1{
+    background-color:white;
+    border-style:ridge;
+    border-radius:20 px;
+    width:50%;
+    padding-bottom: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-width: 5px;
+    color: black;
+}
+
+#div2{
+    background-color: white;
+    border-style: ridge;
+    border-radius:20 px;
+    width:50%;
+    padding-bottom: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-width: 5px;
+    color: black;
+}
+
+#h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(231, 166, 182);
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#btn{
+    width:30%;
+}
+
+#input1{
+    background-color: white;
+    color:black
+}
+
+#input2{
+    background-color: white;
+    color:black
+}
+
+h4{
+    color:yellow;
+    margin-left: 10px;
+}
+
+#at{
+    color: rgb(219, 27, 27);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#qt{
+    color:rgb(212, 29, 29);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#output{
+    font-size:20px;
+    border-top:10px solid crimson;
+    width:50%;
+    background-color: aliceblue;
+    padding-bottom: 10px;
+    border-radius:5px;
+    display : none;
+}
+
+#check{
+    width:30%;
+}
+
+#user_q{
+    width:40%;
+    color : white;
+}
